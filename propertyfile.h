@@ -1,0 +1,4 @@
+#ifndef PROPERTYFILE_H
+#define PROPERTYFILE_H
+
+#endif // PROPERTYFILE_H
